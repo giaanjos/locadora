@@ -16,11 +16,12 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    margin-left: 900px;
+    background-image: url("img/aanjosflix.jpg");
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 .container {
-    height: 100vh;
+    height: 80vh;
 }
